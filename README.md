@@ -1,2 +1,2 @@
-# BDD
-MY FIRST AUTOMATION REPO
+# page object model
+
